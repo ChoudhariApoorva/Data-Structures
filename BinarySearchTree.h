@@ -81,7 +81,7 @@ void BinarySearchTree<T>::addHelper(Node<T>* root, Node<T>* temp)
 	}
 }
 
-// Helper function for PreOrder traversal of the Binary Search Tree
+// Helper function for Inorder traversal of the Binary Search Tree
 
 template<typename T>
 void BinarySearchTree<T>::dispHelper(Node<T>* root)
