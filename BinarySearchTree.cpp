@@ -16,8 +16,15 @@ int main()
 	return 0;
 }
 
-/* Sample output - PreOrder tree traversal
+/* 
 
+	10
+    / \
+   5  20
+      / \
+     15  40
+
+Sample output - Inorder tree traversal
 5 10 15 20 40
 
 */
